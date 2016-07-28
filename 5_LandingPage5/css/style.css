@@ -1,0 +1,27 @@
+.img{
+	width: 250px;
+	height: 200px;
+	margin: 55px;
+}
+p{
+	margin: 50px;
+	text-align: justify;
+}
+.caja{
+	background: grey;
+	border-radius: 5px;
+	margin:25px;
+}
+.logo{
+	width: 60px;
+	height: 60px;
+	margin: 20px 115px;
+}
+.cajita{
+	background: skyblue;
+	border-radius: 5px;
+	border:black solid 2px;
+	margin: 2px;
+	padding: 100px;
+	width: 80px;
+}
